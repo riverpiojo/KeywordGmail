@@ -20,7 +20,7 @@ https://github.com/riverpiojo/KeywordGmail
 -Instrucciones para la ejecución de la aplicación (incluida cualquier aplicación o librería a instalar
 para el correcto funcionamiento del programa)
 
-Debian 9, mariadb server, cliente pip ($ sudo apt install python-pip), dependencias ($ sudo pip install --upgrade google-api-python-client oauth2client httplib2 bs4 bdateutil mysql-connector ldap).
+Debian 8, mysql server, cliente pip ($ sudo apt install python-pip), dependencias ($ sudo pip install --upgrade google-api-python-client oauth2client httplib2 bs4 bdateutil mysql-connector ldap).
 
 -Ejecución
 
